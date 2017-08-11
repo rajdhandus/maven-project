@@ -1,4 +1,4 @@
-/*
-* This is a test comment.
-*/
+/**
+* This is an example package.
+**/
 package com.example;
